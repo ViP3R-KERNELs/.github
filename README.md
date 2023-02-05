@@ -17,7 +17,7 @@
 </b>
 <br>
 <h2> <a href="https://hydra-vercel.vercel.app/">VIPER KERNELS : </a></h2>
- Viper Kernel is a arch64 and arm Linux Kernel developed to provide Performance with best battery backup in Nethunter Moded Devices.
+Viper Kernel is a arch64 and arm Linux Kernel developed to provide Performance with best battery backup in Nethunter Moded Devices. <br>
 We started this project to ensure people get an ultimate kernel which can perform high end operations such as Gaming & saves battery corresponding to it.
 We have core switiching technology(taken from miui) which ensures that kernel switches to battery mode while non gaming or in idle state and changes to high core while playing games!
 <br>
