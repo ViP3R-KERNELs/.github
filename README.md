@@ -1,6 +1,5 @@
 <div id="header" align="center">
 <img src="https://github.com/IamCOD3X/VIPER-KERNELS-/blob/main/VIPERKERNELS.png?raw=true" width="450"#/>
-<h1><a href="https://hydra-vercel.vercel.app/"> <b>VIPER KERNEL PROJECT</a><h1>
 <h4>Developed by @IamCOD3X</h4> 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
