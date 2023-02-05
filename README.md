@@ -16,8 +16,9 @@
 </div>
 </b>
 <br>
-<h2> <a href="https://hydra-vercel.vercel.app/">VIPER KERNELS : </a></h2>
-Viper Kernel is a arch64 and arm Linux Kernel developed to provide Performance with best battery backup in Nethunter Moded Devices. <br>
+<h2> <a href="https://https://t.me/ViPER_KERNELs/">VIPER KERNELS : </a></h2>
+- Viper Kernel is a arch64 and arm Linux Kernel developed to provide Performance with best battery backup in Nethunter Moded Devices. <br>
+- With Support of HID Mode, WIFI Monitor MODE , Packet Injection and much more. <br>
 We started this project to ensure people get an ultimate kernel which can perform high end operations such as Gaming & saves battery corresponding to it.
 We have core switiching technology(taken from miui) which ensures that kernel switches to battery mode while non gaming or in idle state and changes to high core while playing games!
 <br>
@@ -48,7 +49,7 @@ Chipset : Qualcomm® Snapdragon™ 800
 ```
 <br>
 <h2> How to request for your device :</h2>
-You can request VIPER kernel for your device by dropping us a message at our href="https://t.me/ViPER_KERNELs" <a>Telegram Group</a> <br>
+You can request VIPER kernel for your device by dropping us a message at our [TELEGRAM GROUP](https://t.me/ViPER_KERNELs)
 
  <br>
 
