@@ -30,7 +30,7 @@ Device: Redmi Note 4G
 Released Date: Aug , 2014
 Chipset : Qualcomm MSM8928 Snapdragon 400
 
-Codename: atool
+Codename: atoll
 Device: Oneplus Nord
 Released Year: 2020
 Chipset : Snapdragon 765G
@@ -44,6 +44,11 @@ Codename: hammerhead
 Device:Google Nexus 5
 Released Date: Oct, 2020
 Chipset : Qualcomm® Snapdragon™ 800
+
+Codename: g998b
+Device: Samsung Galaxy S21 Ultra
+Released Date: January 2021
+Chipset : Samsung Exynos 2100 , 2.2GHz octa-core (3x2.8GHz + 4x2.2GHz + 1x2.9GHz)
 
 
 ```
