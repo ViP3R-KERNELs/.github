@@ -30,7 +30,7 @@ Device: Redmi Note 4G
 Released Date: Aug , 2014
 Chipset : Qualcomm MSM8928 Snapdragon 400
 
-Codename: atoll
+Codename: avicii
 Device: Oneplus Nord
 Released Year: 2020
 Chipset : Snapdragon 765G
@@ -50,6 +50,10 @@ Device: Samsung Galaxy S21 Ultra
 Released Date: January 2021
 Chipset : Samsung Exynos 2100 , 2.2GHz octa-core (3x2.8GHz + 4x2.2GHz + 1x2.9GHz)
 
+Codename: rmx2061 , rmx2063
+Device: Realme 6 Pro
+Released Date: March, 2020
+Chipset : Qualcomm SM7125 Snapdragon 720G (8 nm) (Octa-core 2x2.3 GHz Kryo 465 Gold & 6x1.8 GHz Kryo 465 Silver)
 
 ```
 <br>
