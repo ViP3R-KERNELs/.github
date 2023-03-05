@@ -55,6 +55,10 @@ Device: Realme 6 Pro
 Released Date: March, 2020
 Chipset : Qualcomm SM7125 Snapdragon 720G (8 nm) (Octa-core 2x2.3 GHz Kryo 465 Gold & 6x1.8 GHz Kryo 465 Silver)
 
+Codename: lavender
+Device: Xiaomi Note 7
+Released Date: January 2019
+Chipset : Qualcomm SDM660 Snapdragon 660, Octa-core Kryo 260 , 4 x 2.2 GHz + 4 x 1.8 GHz
 ```
 <br>
 <h2> How to request for your device :</h2>
