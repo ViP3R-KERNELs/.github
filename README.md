@@ -59,6 +59,14 @@ Codename: lavender
 Device: Xiaomi Note 7
 Released Date: January 2019
 Chipset : Qualcomm SDM660 Snapdragon 660, Octa-core Kryo 260 , 4 x 2.2 GHz + 4 x 1.8 GHz
+
+Codename: guacamole
+Device: OnePlus 7 Pro
+Released Date: May, 2019
+Chipset : Qualcomm SM8150 Snapdragon 855 (7 nm)
+CPU:	Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)
+GPU: Adreno 640
+
 ```
 <br>
 <h2> How to request for your device :</h2>
