@@ -69,10 +69,17 @@ GPU: Adreno 640
 
 Codename: d2qzh
 Device: Samsung Galaxy Note 10+
-Released Date: May, 2019
+Released Date: August, 2019
 Chipset : Qualcomm SM8150 Snapdragon 855 (7 nm) - USA/China
 CPU : Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)
 GPU : Adreno 640 - USA/China
+
+Codename: violet
+Device: Redmi Note 7 Pro
+Released Date: March, 2019
+Chipset : Qualcomm SDM675 Snapdragon 675 (11 nm)
+CPU : Octa-core (2x2.0 GHz Kryo 460 Gold & 6x1.7 GHz Kryo 460 Silver)
+GPU : Adreno 612
 
 ```
 <br>
