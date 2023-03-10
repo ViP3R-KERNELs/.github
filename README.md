@@ -67,6 +67,13 @@ Chipset : Qualcomm SM8150 Snapdragon 855 (7 nm)
 CPU:	Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)
 GPU: Adreno 640
 
+Codename: d2qzh
+Device: Samsung Galaxy Note 10+
+Released Date: May, 2019
+Chipset : Qualcomm SM8150 Snapdragon 855 (7 nm) - USA/China
+CPU : Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485)
+GPU : Adreno 640 - USA/China
+
 ```
 <br>
 <h2> How to request for your device :</h2>
