@@ -81,6 +81,13 @@ Chipset : Qualcomm SDM675 Snapdragon 675 (11 nm)
 CPU : Octa-core (2x2.0 GHz Kryo 460 Gold & 6x1.7 GHz Kryo 460 Silver)
 GPU : Adreno 612
 
+Codename: olive
+Device: Redmi 8
+Released Date: Oct, 2019
+Chipset : Qualcomm SDM439 Snapdragon 439 (12 nm)
+CPU : Octa-core (4x1.95 GHz Cortex-A53 & 4x1.45 GHz Cortex A53)
+GPU : Adreno 505
+
 ```
 <br>
 <h2> How to request for your device :</h2>
