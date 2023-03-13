@@ -88,6 +88,13 @@ Chipset : Qualcomm SDM439 Snapdragon 439 (12 nm)
 CPU : Octa-core (4x1.95 GHz Cortex-A53 & 4x1.45 GHz Cortex A53)
 GPU : Adreno 505
 
+Codename: RMX2020
+Device: Realme C3
+Released Date: Feb, 2020
+Chipset : Mediatek Helio G70 (12 nm)
+CPU : Octa-core (2x2.0 GHz Cortex-A75 & 6x1.7 GHz Cortex-A55)
+GPU : Mali-G52 2EEMC2
+
 ```
 <br>
 <h2> How to request for your device :</h2>
