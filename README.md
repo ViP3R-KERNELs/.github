@@ -95,6 +95,13 @@ Chipset : Mediatek Helio G70 (12 nm)
 CPU : Octa-core (2x2.0 GHz Cortex-A75 & 6x1.7 GHz Cortex-A55)
 GPU : Mali-G52 2EEMC2
 
+Codename: joyeuse
+Device: Redmi Note 9 Pro
+Released Date: April, 2020
+Chipset : Qualcomm SM7125 Snapdragon 720G (8 nm)
+CPU : Octa-core (2x2.3 GHz Kryo 465 Gold & 6x1.8 GHz Kryo 465 Silver)
+GPU : Adreno 618
+
 ```
 <br>
 <h2> How to request for your device :</h2>
