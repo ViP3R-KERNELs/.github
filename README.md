@@ -11,8 +11,9 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com)
 
-
-
+<br>
+<h2>website: https://www.viper-kernel.tech :)</h2>
+<br>
 </div>
 </b>
 <br>
@@ -106,7 +107,3 @@ GPU : Adreno 618
 <br>
 <h2> How to request for your device :</h2>
 You can request VIPER kernel for your device by dropping us a message at our <a href="https://t.me/ViPER_KERNELs/">TELEGRAM GROUP </a>
-
-<br>
-<h2> About US :</h2> Check out our website and about us : https://iamcod3x.github.io/ :)
-<br>
