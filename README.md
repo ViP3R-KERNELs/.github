@@ -10,10 +10,9 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
 
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com)
-
-<br>
-<h2>website: https://www.viper-kernel.tech :)</h2>
-<br>
+  <br>
+[![forthebadge](https://github.com/IamCOD3X/VIPER-KERNELS/blob/main/website-https___www.viper-kernel.tech.svg)](https://www.viper-kernel.tech)
+  
 </div>
 </b>
 <br>
