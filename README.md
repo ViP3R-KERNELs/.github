@@ -103,6 +103,21 @@ Chipset : Qualcomm SM7125 Snapdragon 720G (8 nm)
 CPU : Octa-core (2x2.3 GHz Kryo 465 Gold & 6x1.8 GHz Kryo 465 Silver)
 GPU : Adreno 618
 
+Codename: lime
+Device: Redmi 9T
+Released Date: Jan, 2021
+Chipset : Qualcomm SM6115 Snapdragon 662 (11 nm)
+CPU : Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)
+GPU : Adreno 610
+
+Codename: vayu
+Device: Poco X3 Pro
+Released Date: March, 2021
+Chipset : Qualcomm Snapdragon 860 (7 nm)
+CPU : Octa-core (1x2.96 GHz Kryo 485 Gold & 3x2.42 GHz Kryo 485 Gold & 4x1.78 GHz Kryo 485 Silver)
+GPU : Adreno 640
+
+
 ```
 <br>
 <h2> How to request for your device :</h2>
