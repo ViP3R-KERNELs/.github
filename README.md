@@ -116,6 +116,24 @@ Chipset : Qualcomm Snapdragon 860 (7 nm)
 CPU : Octa-core (1x2.96 GHz Kryo 485 Gold & 3x2.42 GHz Kryo 485 Gold & 4x1.78 GHz Kryo 485 Silver)
 GPU : Adreno 640
 
+Codename: sweet
+Device: Redmi Note 10 Pro
+Released Date: March, 2021
+Chipset : Qualcomm SM7150 Snapdragon 732G (8 nm)
+CPU : Octa-core (2x2.3 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)
+GPU : Adreno 618
+kernel Source : https://github.com/vantoman/kernel_xiaomi_sm6150.git
+
+Codename: selene
+Device: Redmi 10
+Released Date: March, 2021
+Chipset : Mediatek Helio G88 (12nm)
+CPU : Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)
+GPU : Mali-G52 MC2
+kernel Source : https://github.com/Ronald826/xiaomi_kernel_selene.git
+
+
+
 
 ```
 <br>
