@@ -147,7 +147,21 @@ CPU : Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)
 GPU : Mali-G52 MC2
 kernel Source : https://github.com/Ronald826/xiaomi_kernel_selene.git
 
+Codename: RMX1931
+Device: Realme X2 Pro 
+Released Date: Oct, 2019 
+Chipset : Qualcomm SM8150 Snapdragon 855+ (7 nm) 
+CPU : Octa-core (1x2.96 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.8 GHz Kryo 485) 
+GPU : Adreno 640 (700 Mhz) 
+Kernel Source : https://github.com/arnodorian-r/kernel_realme_RMX1931.git
 
+Codename: ginkgo 
+Device: Redmi Note 8 
+Released Date: Oct, 2019 
+Chipset : Qualcomm SDM665 Snapdragon 665 (11 nm) 
+CPU : 	Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver) 
+GPU : Adreno 610 
+Kernel Source : https://github.com/arnodorian-r/kernel_realme_RMX1931.git
 
 
 ```
