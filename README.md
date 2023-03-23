@@ -161,7 +161,7 @@ Released Date: Oct, 2019
 Chipset : Qualcomm SDM665 Snapdragon 665 (11 nm) 
 CPU : 	Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver) 
 GPU : Adreno 610 
-Kernel Source : https://github.com/arnodorian-r/kernel_realme_RMX1931.git
+Kernel Source : https://github.com/ViP3R-KERNELs/kernel_xiaomi_ginkgo.git
 
 
 ```
