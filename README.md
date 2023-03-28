@@ -22,11 +22,10 @@ With Support of HID Mode, WIFI Monitor MODE , Packet Injection and much more. <b
 We started this project to ensure people get an ultimate kernel which can perform high end operations such as Gaming & saves battery corresponding to it.
 We have core switiching technology(taken from miui) which ensures that kernel switches to battery mode while non gaming or in idle state and changes to high core while playing games!
 <br>
-<h2> Check Supported Device Here : [List of Supported Devices](https://www.viper-kernel.tech/pages/SupportedDevice.html) 
+<h2>Supported Device: <br> </h2>
+  <a href="https://www.viper-kernel.tech/pages/SupportedDevice.html">List of Supported Devices</a>
 <br>
 <h2> How to request for your device :</h2>
 You can request VIPER kernel for your device by dropping us a message at our <br>
-  <a href="https://t.me/ViPER_KERNELs/">TELEGRAM GROUP </a>
-  <br>OR
-  <a href="https://www.viper-kernel.tech/index.html#request">Website</a>
+  <a href="https://t.me/ViPER_KERNELs/">TELEGRAM GROUP </a> OR <a href="https://www.viper-kernel.tech/index.html#request">Website</a>
   
