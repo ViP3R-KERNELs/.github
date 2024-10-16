@@ -1,9 +1,8 @@
 <div id="header" align="center">
-<img src="https://github.com/IamCOD3X/VIPER-KERNELS-/blob/main/VIPERKERNELS.png?raw=true" width="450"#/>
-<h4>Developed by @IamCOD3X</h4> 
-
-
-[![forthebadge](https://github.com/IamCOD3X/VIPER-KERNELS/blob/main/website-https___www.viper-kernel.tech.svg)](https://www.viper-kernel.tech)
+<img src="https://github.com/ViP3R-KERNELs/.github/blob/main/assets/VIPER%20BANNER.png?raw=true" width="1000"#/>
+<br>
+  
+[![forthebadge](https://github.com/ViP3R-KERNELs/.github/blob/main/website-https___www.viper-kernel.tech.svg)](https://www.viper-kernel.tech)
   
 </div>
 </b>
