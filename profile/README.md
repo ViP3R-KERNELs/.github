@@ -21,3 +21,5 @@ We have core switiching technology(taken from miui) which ensures that kernel sw
 You can request VIPER kernel for your device by dropping us a message at our <br>
   <a href="https://t.me/ViPER_KERNELs/">TELEGRAM GROUP </a> OR <a href="https://www.viper-kernel.tech/index.html#request">Website</a>
   
+<h2>Ownership</h2>
+A project by <a href="https://www.github.com/IamCOD3X">IamCOD3X</a>
