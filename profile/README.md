@@ -15,11 +15,11 @@ We have core switiching technology(taken from miui) which ensures that kernel sw
 ## HAPPY HACKING ##
 <br>
 <h2>Supported Device: <br> </h2>
-  <a href="https://www.viper-kernel.tech/pages/SupportedDevice.html">List of Supported Devices</a>
+  <a href="https://www.viperkernels.com/pages/SupportedDevice.html">List of Supported Devices</a>
 <br>
 <h2> How to request for your device :</h2>
 You can request VIPER kernel for your device by dropping us a message at our <br>
-  <a href="https://t.me/ViPER_KERNELs/">TELEGRAM GROUP </a> OR <a href="https://www.viper-kernel.tech/index.html#request">Website</a>
+  <a href="https://t.me/ViPER_KERNELs/">TELEGRAM GROUP </a> OR <a href="https://www.viperkernels.com/index.html#request">Website</a>
   
 <h2>Ownership</h2>
 A project by <a href="https://www.github.com/IamCOD3X">IamCOD3X</a>
