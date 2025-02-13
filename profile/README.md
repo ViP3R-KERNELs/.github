@@ -2,16 +2,16 @@
 <img src="https://github.com/ViP3R-KERNELs/.github/blob/main/assets/VIPER%20BANNER.png?raw=true" width="1000"#/>
 <br>
   
-[![forthebadge](https://github.com/ViP3R-KERNELs/.github/blob/main/website-https___www.viper-kernel.tech.svg)](https://www.viperkernels.com)
+[![forthebadge](https://github.com/ViP3R-KERNELs/.github/blob/main/assets/url-www.viperkernels.com.svg)](https://www.viperkernels.com)
   
 </div>
 </b>
 <br>
 <h2> <a href="https://t.me/ViPER_KERNELs/">VIPER KERNELS : </a></h2>
-Viper Kernel is a arch64 and arm Linux Kernel developed to provide Performance with best battery backup in Nethunter Moded Devices. <br>
+Viper Kernel is a arch64 and arm Linux Kernel developed to provide Performance with best battery backup in Nethunter Modded Devices. <br>
 With Support of HID Mode, WIFI Monitor MODE , Packet Injection and much more. <br>
 We started this project to ensure people get an ultimate kernel which can perform high end operations such as Hacking & saves battery corresponding to it.
-We have core switiching technology(taken from miui) which ensures that kernel switches to battery mode while non gaming or in idle state and changes to high core while playing games or doing Hacking Stuff! <br>
+We have core switching technology(taken from MIUI) which ensures that kernel switches to battery mode while non gaming or in idle state and changes to high core while playing games or doing Hacking Stuff! <br>
 ## HAPPY HACKING ##
 <br>
 <h2>Supported Device: <br> </h2>
